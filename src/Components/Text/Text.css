@@ -1,0 +1,10 @@
+.text {
+    text-align: left;
+    color: hsl(217, 12%, 63%);
+}
+
+small {
+    text-align: center;
+    color: inherit;
+    font-weight: 800;
+}

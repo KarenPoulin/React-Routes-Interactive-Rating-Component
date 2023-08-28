@@ -1,0 +1,16 @@
+.container {
+    padding: 0;
+}
+
+.backgroundContainer {
+    background: linear-gradient(180deg, rgb(58, 69, 85) 0%, rgba(21, 25, 31, 1) 100%);
+    border-radius: 1em;
+    padding: 2em;
+    max-width: 500px;
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

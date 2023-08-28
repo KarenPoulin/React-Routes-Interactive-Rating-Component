@@ -1,0 +1,9 @@
+.circle.hover:hover {
+    background-color: hsl(25, 97%, 53%);
+    color: white;
+}
+
+.circle.hover.isActive {
+    background-color: hsl(216, 12%, 54%);
+    color: white;
+}
